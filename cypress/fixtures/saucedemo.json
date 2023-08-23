@@ -1,0 +1,10 @@
+{
+  "username": "standard_user",
+  "password": "secret_sauce",
+  "tshirtbaseprice": "$15.99",
+  "backpackbaseprice": "$29.99",
+  "totalprice": "$45.98",
+  "firstname": "Robert",
+  "lastname": "Abrehim",
+  "postcode": "Rg64QD"
+}
